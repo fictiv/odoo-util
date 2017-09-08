@@ -1,0 +1,16 @@
+{
+  "name": "odoo-search",
+  "version": "0.0.1",
+  "private": true,
+  "bin": {
+    "odoo-search": "./lib/odoo-search.js"
+  },
+  "author": "Peter Nehrer <peter@fictiv.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "commander": "^2.11.0",
+    "lodash": "^4.17.4",
+    "xmlrpc": "^1.3.2"
+  }
+}
